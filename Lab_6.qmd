@@ -1,0 +1,31 @@
+---
+title: "Lab 6: Quarto Presentation"
+author: "Aminah Dawood"
+format: revealjs
+editor: visual
+bibliography: references.bib
+---
+
+## Some Important Literature
+
+-   Micro-plastics are everywhere! Here are some interesting literature about that.
+
+-   This reference contains important information about mircoplastics in our water. [@kye_microplastics_2023]
+
+-   This reference contains important information about mircoplastics in our air. [@obrien_theres_2023]
+
+-   This reference contains important information about mircoplastics found in patients undergoing cardiac surgery! [@yang_detection_2023]\
+    \
+    And then also add a slide to collect the cited references at the end:
+
+## References
+
+## A Cool Equation or Two
+
+$$
+w_A(g) \equiv \prod_i^M \sum_j^M \Big( \frac{\exp(-q\epsilon d^H_{i,j})}{\sum_j \exp(-q\epsilon d^H_{i,j})} \Big) \phi^{d^A_{i,j}}
+$$
+
+$$
+\pi(g\to g') = \frac{1 - \Big(\frac{w_{g}}{w_{g'}}\Big)^{a}}{1 - \Big(\frac{w_{g}}{w_{g'}}\Big)^{N}}
+$$
