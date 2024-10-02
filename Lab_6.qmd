@@ -10,15 +10,11 @@ bibliography: references.bib
 
 -   Micro-plastics are everywhere! Here are some interesting literature about that.
 
--   This reference contains important information about mircoplastics in our water. [@kye_microplastics_2023]
+    -   This reference contains important information about mircoplastics in our water. [@kye_microplastics_2023]
 
--   This reference contains important information about mircoplastics in our air. [@obrien_theres_2023]
+    -   This reference contains important information about mircoplastics in our air. [@obrien_theres_2023]
 
--   This reference contains important information about mircoplastics found in patients undergoing cardiac surgery! [@yang_detection_2023]\
-    \
-    And then also add a slide to collect the cited references at the end:
-
-## References
+    -   This reference contains important information about mircoplastics found in patients undergoing cardiac surgery! [@yang_detection_2023]
 
 ## A Cool Equation or Two
 
@@ -29,3 +25,5 @@ $$
 $$
 \pi(g\to g') = \frac{1 - \Big(\frac{w_{g}}{w_{g'}}\Big)^{a}}{1 - \Big(\frac{w_{g}}{w_{g'}}\Big)^{N}}
 $$
+
+## References 
